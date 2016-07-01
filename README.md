@@ -14,4 +14,6 @@ My motivation for this game was to teach foreign words, in a fun way.
 I used an API called annyang, that allows for multiple language voice recognition. https://github.com/TalAter/annyang/blob/master/docs/README.md
 
 ### Process 
-I started off with sketching, mind mapping, and brain storming ideas. After closing down on two ideas, I moved onto writing peuseodo code, and figuring out the general structure. I found an API called annyang that allowed me to incorporate voice recognition into my game, 
+I started off with sketching, mind mapping, and brain storming ideas. After closing down on two ideas, I moved onto writing peuseodo code, and figuring out the general structure. I found an API called annyang that allowed me to incorporate voice recognition into my game.
+
+https://casparen.github.io/project-1/
