@@ -1,0 +1,110 @@
+
+
+
+body {
+  left:0;
+  right: 0;
+  height:600px;
+  /*border: solid black 1px;*/
+  position: absolute;
+  font-family: futura book;
+  /*background-color: rgb(14, 34, 54);*/
+}
+
+
+#header {
+  text-align: center;
+  margin-bottom: 1.5cm;
+  letter-spacing: 15px;
+  font-size: 60px;
+  opacity:0.4;
+  	color:rgb(78, 180, 191);
+}
+
+#header:hover{
+	color:black;
+}
+
+
+
+.playerOne {
+  float:left;
+  margin-left: 30px;
+
+}
+
+.playerTwo{
+  float:right;
+  margin-right: 30px;
+
+}
+
+
+.playerOne, .playerTwo {
+    /*border:solid black 1px;*/
+    position: relative;
+    letter-spacing: 3px;
+    letter-spacing: 5px;
+}
+
+
+#buttonOne {
+  float:left;
+  margin-left: 20px;
+}
+
+#buttonOne:hover {
+  background-color:pink;
+}
+
+
+#buttonTwo {
+  float: right;
+  margin-right: 20px;
+}
+
+#buttonTwo:hover {
+  background-color: pink;
+}
+
+#buttonOne, #buttonTwo {
+  margin-top: 28px;
+  background-color: black;
+/*border: solid black 1px;*/
+border-radius: 25px;
+width: 30px;
+height: 30px;
+opacity:0.4;
+
+}
+
+
+
+
+.wordPool1 {
+left:2cm;
+
+}
+
+.wordPool2 {
+    float: right;
+    right:2cm;
+
+}
+
+
+.wordPool1, .wordPool2 {
+position: absolute;
+    font-size: 14px;
+    color: pink;
+    margin-top: 2.5cm;
+
+}
+
+#time {
+  left: 50%;
+  position: absolute;
+
+  height: 30px;
+
+}
